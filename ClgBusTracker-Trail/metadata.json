@@ -1,0 +1,5 @@
+{
+  "name": "Copy of College Bus Tracker",
+  "description": "A web application to track the location of the college bus in real-time on a map. Students can log in with their details to see the bus's movement along its route and receive notifications when the bus is approaching their stop.",
+  "requestFramePermissions": []
+}
